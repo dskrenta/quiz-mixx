@@ -1,0 +1,14 @@
+.container {
+  padding-left: 40px;
+  padding-right: 40px;
+}
+
+.main {
+  width: calc(80vw - 80px);
+  float: left;
+}
+
+.side {
+  width: calc(20vw - 80px);
+  float: right;
+}
